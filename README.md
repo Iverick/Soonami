@@ -1,7 +1,7 @@
 Soonami App
 ===========
 
-App extracts information from geojson endpoint and displays 
+This Android app extracts information from geojson endpoint and displays 
 information about a signle earthquake and whether or not tsunami 
 alert was issued for it.
 
